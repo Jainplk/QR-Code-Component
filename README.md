@@ -8,9 +8,9 @@ Simple and responsive QR code componenet created with Html5 & CSS3.
 
 ### Screenshot
 
-1. Html code :- [<img src="C:\programs\CHALLENGE\code.png">]
+1. Html code :- <img src="C:\programs\CHALLENGE\code.png">
 
-2. CSS code :- [<img src="C:\programs\CHALLENGE\css code.png">]
+2. CSS code :- <img src="C:\programs\CHALLENGE\css code.png">
 
 ### Built with
 
