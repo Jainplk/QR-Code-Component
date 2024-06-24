@@ -8,7 +8,7 @@ Simple and responsive QR code componenet created with Html5 & CSS3.
 
 ### Screenshot
 
-
+![Snapshot](https://github.com/Jainplk/QR-Code-Component/assets/160907087/3092132e-5aa9-4e93-9ba3-1add4d3f740f)
 
 ### Built with
 
